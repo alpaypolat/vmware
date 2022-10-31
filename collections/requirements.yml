@@ -1,0 +1,6 @@
+---
+collections:
+# With the collection name, version, and source options
+- name: https://github.com/alpaypolat/vmware.git
+  type: git
+
