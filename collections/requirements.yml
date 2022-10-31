@@ -1,0 +1,2 @@
+- src: git@github.com:alpaypolat/vmware.git
+  scm: git
