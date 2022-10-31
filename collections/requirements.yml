@@ -1,9 +1,0 @@
-# Bu kisim test amacli...:
-#- src: git@github.com:alpaypolat/vmware.git
-#  scm: git
-
-
-# from GitHub, overriding the name and specifying a specific tag
-- name: vmware
-  src: https://github.com/alpaypolat/vmware
-  version: main
