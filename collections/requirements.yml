@@ -1,6 +1,0 @@
----
-collections:
-# With the collection name, version, and source options
-- name: community.vmware
-  type: git
-  source: https://github.com/alpaypolat/vmware
